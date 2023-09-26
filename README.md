@@ -1,8 +1,11 @@
 
 
 <h3>Hello World! 👋 </h3>
+<p>My name is Maximiliano Cerra, from Argentina</p>
+<p>I'm a Fullstack Developer</p>
 <p>Welcome to my personal Github respository</p>
 
+- ⚡ Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
@@ -36,6 +39,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
+
+- 📫 How to reach me: cerramaximiliano@gmail.com
 
 
 <!--
