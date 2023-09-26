@@ -1,10 +1,11 @@
 
 
 <h3>Hello World! 👋 </h3>
-<p>My name is Maximiliano Cerra, from Argentina</p>
-<p>I'm a Fullstack Developer</p>
+<p>My name is Maximiliano Cerra, from Argentina  </p>
+<p>I'm a Fullstack Developer 🚀 </p>
 <p>Welcome to my personal Github repository</p>
 
+- 📄 Resume available: https://www.linkedin.com/in/maximiliano-cerra-a2095322/
 - 📫 How to reach me: cerramaximiliano@gmail.com
 - ⚡ Technologies
 <div align="center">
