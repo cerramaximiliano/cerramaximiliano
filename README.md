@@ -3,7 +3,7 @@
 <h3>Hello World! 👋 </h3>
 <p>My name is Maximiliano Cerra, from Argentina</p>
 <p>I'm a Fullstack Developer</p>
-<p>Welcome to my personal Github respository</p>
+<p>Welcome to my personal Github repository</p>
 
 - 📫 How to reach me: cerramaximiliano@gmail.com
 - ⚡ Technologies
