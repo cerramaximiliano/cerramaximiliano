@@ -5,6 +5,7 @@
 <p>I'm a Fullstack Developer</p>
 <p>Welcome to my personal Github respository</p>
 
+- 📫 How to reach me: cerramaximiliano@gmail.com
 - ⚡ Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -40,7 +41,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
 
-- 📫 How to reach me: cerramaximiliano@gmail.com
+
 
 
 <!--
