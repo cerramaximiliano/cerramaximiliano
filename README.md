@@ -5,6 +5,9 @@
 <p>I'm a Fullstack Developer 🚀 </p>
 <p>Welcome to my personal Github repository</p>
 
+
+- 🌱 I’m currently learning a lot of stuff
+- 👀 I’m interested in Coding, Crypto, Music!
 - 📄 Resume available: https://www.linkedin.com/in/maximiliano-cerra-a2095322/
 - 📫 How to reach me: cerramaximiliano@gmail.com
 - ⚡ Technologies
