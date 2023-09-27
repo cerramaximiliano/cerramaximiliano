@@ -10,6 +10,7 @@
 - 👀 I’m interested in Coding, Crypto, Music!
 - 📄 Resume available: https://www.linkedin.com/in/maximiliano-cerra-a2095322/
 - 📫 How to reach me: cerramaximiliano@gmail.com
+- 📗 Schedule a meeting: https://calendly.com/cerramaximiliano/meeting-max
 - ⚡ Technologies
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
